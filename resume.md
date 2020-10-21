@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Education:
+**Education**
 
 Ph.D.  Electrical Engineering, Texas A&M University &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;     2018 -  Present <br>
 College Station, Texas, USA  
