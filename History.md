@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work and School
+title: 
 ---
 
 ## Education
