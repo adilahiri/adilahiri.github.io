@@ -12,7 +12,7 @@ M.S.   Electrical Engineering, Texas A&M University &nbsp;&nbsp;&nbsp;&nbsp;&nbs
 College Station, Texas, USA   
 
 B.S.   Electrical Engineering, Purdue University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012 -  2016 <br>
-West Lafayette, Indiana USA   
+West Lafayette, Indiana, USA   
 
 
 #### Experience
