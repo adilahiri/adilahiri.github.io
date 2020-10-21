@@ -19,9 +19,9 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 
 ### Education:
-PhD Electrical Engineering, Texas A&M University     (2018- Present) <br>
-College Station,Texas     
-MS Electrical Engineering, Texas A&M University      (2016 - 2018) <br>
-College Station, Texas                                      
-BS Electribal Engineering, Purdue University          (2012 - 2016) <br>
-West Lafayette, Indiana      
+PhD Electrical Engineering, Texas A&M University       2018- Present <br>
+College Station,Texas     <br>
+MS Electrical Engineering, Texas A&M University        2016 - 2018 <br>
+College Station, Texas     <br>                                 
+BS Electribal Engineering, Purdue University           2012 - 2016 <br>
+West Lafayette, Indiana    <br>  
