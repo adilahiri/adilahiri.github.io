@@ -16,14 +16,14 @@ West Lafayette, Indiana USA
 
 
 ## Experience
-*Research Intern*, University of Texas Health Center at Houston. September 2020 - Present <br>
+*Research Intern*, University of Texas Health Cente. September 2020 - Present <br>
 Houston, Texas
 
-*Research Assistant*, Texas A&M University  March 2017 - August 2020 <br>
+*Research Assistant*, Texas A&M University &nbsp;&nbsp;&nbsp  March 2017 - August 2020 <br>
 College Station, Texas
 
-*Systems Intern*, 3W Networks May 2015 - August 2015 <br>
+*Systems Intern*, 3W Networks &nbsp;&nbsp;&nbspMay 2015 - August 2015 <br>
  Dubai, United Arab Emirates.
  
-*Undergraduate Teaching Assistant*, Purdue University. August 2014 - May 2016 <br>
+*Undergrad Teaching Assistant*, Purdue University.&nbsp;&nbsp;&nbsp August 2014 - May 2016 <br>
 West Lafayette, Indiana
