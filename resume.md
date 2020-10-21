@@ -1,5 +1,6 @@
 ---
-layout: Resume
+layout: Page
+Title: Resume
 ---
 
 ## Education
