@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Resume
 ---
 
 ## Education
@@ -16,7 +16,10 @@ West Lafayette, Indiana USA
 
 
 ## Experience
-1. University of Texas Health Center at Houston.  September 2020 - Present
-2. Texas A&M University, College Station, Texas.  March 2017 - August 2020
-3. 3W Networks, Dubai, United Arab Emirates.      May 2015 - August 2015
-4. Purdue University, West Lafayette, Indiana.    August 2014 - May 2016
+*Research Intern*, University of Texas Health Center at Houston.  September 2020 - Present <br>
+
+*Research Assistant*, Texas A&M University, College Station, Texas.  March 2017 - August 2020 <br>
+
+*Systems Intern*, 3W Networks, Dubai, United Arab Emirates.      May 2015 - August 2015 <br>
+
+*Teaching Assistant* Purdue University, West Lafayette, Indiana.    August 2014 - May 2016 <br>
