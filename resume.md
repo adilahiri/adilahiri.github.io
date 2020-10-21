@@ -15,7 +15,7 @@ West Lafayette, Indiana USA
 
 
 
-### Experience
+## Experience
 1. University of Texas Health Center at Houston.  September 2020 - Present
 2. Texas A&M University, College Station, Texas.  March 2017 - August 2020
 3. 3W Networks, Dubai, United Arab Emirates.      May 2015 - August 2015
