@@ -1,6 +1,6 @@
 ---
-layout: Page
-Title: Resume
+layout: page
+title: About me
 ---
 
 ## Education
