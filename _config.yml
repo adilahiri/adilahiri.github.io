@@ -15,12 +15,7 @@ author: Aditya Lahiri
 
 navbar-links:
   About Me: "aboutme"
-  Resume:
-    - Experience:
-    - Education:
-    - Projects:
-    - Publications:
-    - Certifications:
+  Resume: "resume"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
