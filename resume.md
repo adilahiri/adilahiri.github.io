@@ -15,4 +15,4 @@ West Lafayette, Indiana USA
 
 
 
-### Experience
+**Experience**
