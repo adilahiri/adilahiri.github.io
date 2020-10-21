@@ -15,4 +15,11 @@ B.S.   Electrical Engineering, Purdue University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 West Lafayette, Indiana USA   
 
 
+## Experience
+University of Texas Health Center at Houston.  September 2020 - Present <br>
 
+Texas A&M University, College Station, Texas.  March 2017 - August 2020 <br>
+
+3W Networks, Dubai, United Arab Emirates.      May 2015 - August 2015 <br>
+
+Purdue University, West Lafayette, Indiana.    August 2014 - May 2016 <br>
