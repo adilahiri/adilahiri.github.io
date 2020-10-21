@@ -5,7 +5,9 @@ title: Resume
 
 
 ### Education:
-Ph.D.  Electrical Engineering, Texas A&M University, College Station, Texas, USA   &nbsp;&nbsp;&nbsp; 2018 -  Present <br>
+Ph.D.  Electrical Engineering, Texas A&M University,   2018 -  Present <br>
+
+College Station, Texas, USA  
 
 M.S.   Electrical Engineering, Texas A&M University, College Station, Texas, USA   &nbsp;&nbsp;&nbsp;  2016 -  2018 <br>
 
