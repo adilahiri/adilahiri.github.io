@@ -15,7 +15,8 @@ author: Aditya Lahiri
 
 navbar-links:
   About Me: "aboutme"
-  History: "History"
+  CV: "CV"
+  Publication: "Publication"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
