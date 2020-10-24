@@ -11,7 +11,7 @@ College Station, Texas, USA
 M.S.   Electrical Engineering, Texas A&M University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   August 2016 -  August 2018 <br>
 College Station, Texas, USA   
 
-B.S.   Electrical Engineering, Purdue University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012 -  2016 <br>
+B.S.   Electrical Engineering, Purdue University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2012 - May 2016 <br>
 West Lafayette, Indiana, USA   
 
 
@@ -30,7 +30,7 @@ West Lafayette, Indiana
 
 
 #### Honors and Awards
-Graduate Merit Scholarship, Texas A&M University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2020 - August 2021 <br>
+Graduate Merit Scholarship, Texas A&M University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2020 - August 2021 <br>
 
 Graduate Research Assistantship, Texas A&M University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2017 - August 2020 <br>
 
