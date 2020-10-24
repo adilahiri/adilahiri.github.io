@@ -27,3 +27,11 @@ College Station, Texas
  
 *Undergrad Teaching Assistant*, Purdue University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2014 - May 2016 <br>
 West Lafayette, Indiana
+
+
+#### Honors and Awards
+Graduate Merit Scholarship, Texas A&M University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2020 - August 2021 <br>
+
+Graduate Research Assistantship, Texas A&M University &nbsp;&nbsp;&nbsp; March 2017 - August 2020 <br>
+
+
