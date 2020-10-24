@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vitae
+title-heading: false
 ---
 
 #### Education
