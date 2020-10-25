@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio
+title-heading: false
 subtitle: My Story
 ---
 
