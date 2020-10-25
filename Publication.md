@@ -1,6 +1,7 @@
 ---
 layout: page
 title-heading: false
+show-avatar: false
 ---
 
 #### Journal Publication
