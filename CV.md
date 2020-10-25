@@ -4,7 +4,7 @@ title-heading: false
 show-avatar: false
 ---
 
-#### [Education](#)
+#### Education
 
 Ph.D.  Electrical Engineering, Texas A&M University &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;     August 2018 -  Present <br>
 College Station, Texas, USA  
@@ -16,7 +16,7 @@ B.S.   Electrical Engineering, Purdue University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 West Lafayette, Indiana, USA   
 
 
-#### [Experience](#)
+#### Experience
 *Research Intern*, University of Texas Health Center &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2020 - Present <br>
 Houston, Texas
 
@@ -30,7 +30,7 @@ College Station, Texas
 West Lafayette, Indiana
 
 
-#### [Honors and Awards](#)
+#### Honors and Awards
 Graduate Merit Scholarship, Texas A&M University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August 2020 - August 2021 <br>
 
 Graduate Research Assistantship, Texas A&M University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March 2017 - August 2020 <br>
