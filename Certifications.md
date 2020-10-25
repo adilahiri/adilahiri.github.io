@@ -14,7 +14,7 @@ title-heading: false
 
 5. [ Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/certificate/UC-36bdc580-52a2-4fae-b728-2c6e53133f98/)
 
-6. [R Programming A-Z™: R For Data Science With Real Exercises](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8ceabcdd-b644-4207-b2a7-09951a9bdfa7.pdf)
+6. [R Programming A-Z™: R For Data Science With Real Exercises](https://www.udemy.com/certificate/UC-8ceabcdd-b644-4207-b2a7-09951a9bdfa7/)
 
 7. [The Complete SQL Bootcamp](http://ude.my/UC-Q3N44Z6A)
 
