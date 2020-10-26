@@ -13,6 +13,6 @@ Under review at BMC Plant Biology. (2020)
 
 
 #### Conference & Workshop Publication
-1. BCB '18: Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health InformaticsAugust 2018 Pages 576https://doi.org/10.1145/3233547.3233676. Poster and Abstract Presentation Washington D.C., USA.  
+1. BCB '18: Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health InformaticsAugust 2018 Pages 576https://doi.org/10.1145/3233547.3233676. Poster and Abstract Presentation, Washington D.C., USA.  
 
-2. 18th Adaptive and Learning Systems Workshop at SEAS. Conference paper presentation, Yale University, New Haven, Connecticut, USA. 
+2. Conference paper presentation at the 18th Adaptive and Learning Systems Workshop, Yale University, New Haven, Connecticut, USA. 
