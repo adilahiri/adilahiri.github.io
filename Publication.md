@@ -8,8 +8,10 @@ show-avatar: false
 1. Lahiri, A., Venkatasubramani, P. & Datta, A. Bayesian modeling of plant drought resistance pathway. 
 BMC Plant Biol 19, 96 (2019). https://doi.org/10.1186/s12870-019-1684-3
 
-2. Lahiri, A. , Zhou,L., He,P., & Datta, A. Detecting Drought Regulators using Stochastic Inference in Bayesian Networks.
-Under review at BMC Plant Biology. (2020) 
+2. Lahiri, A., Rastogi, K., Datta, A., & Septiningsih, E. M. (2021). Bayesian Network Analysis of Lysine Biosynthesis Pathway in Rice. Inventions, 6(2), 37. https://doi.org/10.3390/inventions6020037
+
+3. Lahiri, A., Zhou, L., He, P., & Datta, A. (2021). Detecting drought regulators using stochastic inference in Bayesian networks. PLOS ONE, 16(8), e0255486. https://doi.org/10.1371/journal.pone.0255486
+
 
 
 #### Conference & Workshop Publication
